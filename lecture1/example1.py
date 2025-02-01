@@ -1,4 +1,4 @@
-# Create Algirithm to find Max
+# Create Algorithm to find Max
 # Input: a list of numbers L
 # Output: the maximum number in the list  L
 # maxValue <- L[0]
